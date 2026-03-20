@@ -19,3 +19,9 @@ The focus of these labs is to demonstrate how organizations manage identity life
 These labs demonstrate governance concepts commonly used in Identity and Access Management (IAM) and Identity Governance & Administration (IGA) programs.
 
 All examples are hypothetical and do not contain any proprietary or production environment information.
+## Governance Reference
+
+This repository is part of a broader enterprise security program that includes architecture, operations, and governance components.
+
+Central governance framework:
+https://github.com/georgeveitl-cmd/enterprise-security-governance
